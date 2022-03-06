@@ -1,0 +1,3 @@
+(executable
+ (name gametest)
+ (libraries Game ounit2))
