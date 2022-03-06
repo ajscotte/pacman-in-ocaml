@@ -1,0 +1,4 @@
+(executable
+ (name sample)
+ (public_name Sample)
+ (libraries sdl bigarray graphics Game))
